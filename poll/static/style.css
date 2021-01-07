@@ -1,0 +1,53 @@
+
+.navbar {
+   margin-bottom: 0;
+   background-color: #4155;
+   z-index: 9999;
+   border: 0;
+   font-size: 22px !important;
+   line-height: 1.42857143 !important;
+   border-radius: 0;
+   padding-top: 10px;
+   padding-bottom: 10px;
+ }
+ .navbar li a, .navbar .navbar-brand {
+   color:#48205a !important;
+   box-align: center;
+ }
+ .navbar-nav li a:hover, .navbar-nav li.active a {
+   color: #48205a !important;
+ }
+ .logo {
+   font-size: 30px;
+   font-weight: bolder;
+}
+.panel-default > .panel-heading {
+  color: #333;
+  background-color: rgba(245, 245, 220, .7);
+  border-color: rgba(119, 119, 108, 0.6);
+  font-size: large;
+}
+ 
+.panel-footer {
+  background-color: rgba(245, 245, 220, .5);
+  border-color: rgba(245, 245, 220, .4);
+}
+.panel {
+  margin-top: 20px;
+  box-shadow: 0px 3px 3px 0px #ddd;
+  
+}
+.panel-title {
+  font-weight: bolder;
+  font-size: larger;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  font: outline;
+}
+.list-group-item{
+  font-size: large;
+}
+.form-group{
+  font-size: medium;
+}
