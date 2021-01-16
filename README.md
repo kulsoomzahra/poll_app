@@ -1,8 +1,8 @@
 # :zap:The Polling Booth
 An application that allows you to cast your vote(opinion) about posts .
 You can also
-<li>create your own polls</li>
-<li>vote in polls</li>
+<li>create your own customized polls</li>
+<li>vote in existing polls</li>
 <li>view poll results</li>
 
 # Setting it up
@@ -38,3 +38,5 @@ To activate it in Linux-based systems -
 To activate it in Windows -
 
     $ \venv\Scripts\activate.bat
+    
+
