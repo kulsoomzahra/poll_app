@@ -4,7 +4,7 @@ You can also
 <li>create your own customized polls</li>
 <li>vote in existing polls</li>
 <li>view poll results</li>
-
+<br>
 This app can be integrated with any educational firm , enterprise , customer review sites etc to
 know their opinion/feedback.
 
