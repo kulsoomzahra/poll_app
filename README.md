@@ -1,5 +1,5 @@
 # :zap:The Polling Booth
-An application that allows you to cast your vote(opinion) about posts .
+A web application that allows you to cast your vote(opinion) about posts .
 You can also
 <li>create your own customized polls</li>
 <li>vote in existing polls</li>
