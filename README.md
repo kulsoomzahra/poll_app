@@ -5,6 +5,9 @@ You can also
 <li>vote in existing polls</li>
 <li>view poll results</li>
 
+This app can be integrated with any educational firm , enterprise , customer review sites etc to
+know their opinion/feedback.
+
 # Setting it up
 
 If you plan to contribute, below are the steps you need to follow.
