@@ -1,7 +1,9 @@
-
+.body{
+  background-color: #4155;
+}
 .navbar {
    margin-bottom: 0;
-   background-color: #4155;
+   color: rgba(22, 143, 173, 0.333);
    z-index: 9999;
    border: 0;
    font-size: 22px !important;
@@ -19,7 +21,8 @@
  }
  .logo {
    font-size: 30px;
-   font-weight: bolder;
+   font-weight: strong;
+   font-family: cursive;
 }
 .panel-default > .panel-heading {
   color: #333;
