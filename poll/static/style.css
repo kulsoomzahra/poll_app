@@ -47,7 +47,7 @@
 }
 .list-group-item{
   font-size: large;
-  padding: 20 20 20 20;
+  padding: auto;
 }
 .form-group{
   font-size: medium;
