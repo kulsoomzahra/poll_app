@@ -26,7 +26,7 @@ SECRET_KEY = '#okmj(sg2y1@vqz1p^!y=-!j(=3j!=5%wyir=2icww_06wny44'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'https://thepollingbooth.herokuapp.com', 'http://thepollingbooth.herokuapp.com',
+    'https://thepollingbooth.herokuapp.com', 'http://thepollingbooth.herokuapp.com', 'https://thepollingbooth.herokuapp.com/', 'http://thepollingbooth.herokuapp.com/',
     '0.0.0.0', '127.0.0.1','thepollingbooth.herokuapp.com'
 ]
 
