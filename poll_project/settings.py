@@ -27,6 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     u'0.0.0.0'
+    u'thepollingbooth.herokuapp.com'
 ]
 
 
