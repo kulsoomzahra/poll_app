@@ -17,9 +17,9 @@
    color: #48205a !important;
  }
  .logo {
-   font-size: 30px;
-   font-weight: strong;
-   font-family: cursive;
+    font-size: 40px;
+   font-weight: 30px;
+   font-family: fantasy;
 }
 .panel-default > .panel-heading {
   color: #333;
